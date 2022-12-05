@@ -22,6 +22,8 @@ Rekisteröity käyttäjä - voi käyttää kaikkia foorumin toimintoja
 Ylläpitäjä – Ylläpitäjä on järjestelmän vastuuhenkilö, jonka tehtävänä on keskustelusivujen ylläpitäminen. 
 
 
+Tietosisältö (Data content)
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/105230372/205586042-e43b1557-97b9-4b70-8303-2ea342e09a60.png">
 
 
 
