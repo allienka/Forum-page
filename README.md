@@ -1,7 +1,7 @@
-# Forum-page
+# Forum-page ...in the process
 
 School projet to define, plan and implement a simple web service
-...in the process
+
 
 
 # Requirements: 
