@@ -19,9 +19,9 @@ Järjestelmä toteutetaan HTML/CSS,  PHP-ohjelmointikielellä ja MySQL-tietok
 
 # Käyttäjäryhmät:
 
-Vierailija – on foorumin käyttäjä, joka ei ole kirjautunut sisään, joten ei voi käyttää kaikkia foorumin toimintoja
-Rekisteröity käyttäjä - voi käyttää kaikkia foorumin toimintoja  
-Ylläpitäjä – Ylläpitäjä on järjestelmän vastuuhenkilö, jonka tehtävänä on keskustelusivujen ylläpitäminen. 
+**Vierailija** – on foorumin käyttäjä, joka ei ole kirjautunut sisään, joten ei voi käyttää kaikkia foorumin toimintoja
+**Rekisteröity käyttäjä** - voi käyttää kaikkia foorumin toimintoja  
+**Ylläpitäjä** – Ylläpitäjä on järjestelmän vastuuhenkilö, jonka tehtävänä on keskustelusivujen ylläpitäminen. 
 
 
 # Tietosisältö (Data content)
