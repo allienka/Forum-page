@@ -4,7 +4,7 @@ School projet to define, plan and implement a simple web service
 ...in the process
 
 
-Requirements: 
+# Requirements: 
 (In finnish)
 
 Keskustelusivut 
@@ -17,14 +17,14 @@ Järjestelmä toteutetaan HTML/CSS,  PHP-ohjelmointikielellä ja MySQL-tietok
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/105230372/205585089-3a63c6a7-5d3c-4ea4-92a3-751a8bad6183.png">
 
 
-Käyttäjäryhmät:
+# Käyttäjäryhmät:
 
 Vierailija – on foorumin käyttäjä, joka ei ole kirjautunut sisään, joten ei voi käyttää kaikkia foorumin toimintoja
 Rekisteröity käyttäjä - voi käyttää kaikkia foorumin toimintoja  
 Ylläpitäjä – Ylläpitäjä on järjestelmän vastuuhenkilö, jonka tehtävänä on keskustelusivujen ylläpitäminen. 
 
 
-Tietosisältö (Data content)
+# Tietosisältö (Data content)
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/105230372/205586042-e43b1557-97b9-4b70-8303-2ea342e09a60.png">
 
